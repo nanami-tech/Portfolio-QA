@@ -1,0 +1,1 @@
+У Fiddler зроблено всі запити з petstore для user (окрім створення array та list) та store.
